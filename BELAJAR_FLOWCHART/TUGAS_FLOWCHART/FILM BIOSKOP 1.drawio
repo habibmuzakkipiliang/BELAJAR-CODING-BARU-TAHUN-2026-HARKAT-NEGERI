@@ -1,0 +1,75 @@
+<mxfile host="Electron">
+  <diagram name="Halaman-1" id="6ORK6IlqRdnslROgiaHU">
+    <mxGraphModel dx="1720" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="MULAI" vertex="1">
+          <mxGeometry height="90" width="240" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.41" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=22;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="INPUT : PILIH FILM" vertex="1">
+          <mxGeometry height="70" width="260" x="270" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.41" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=21;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="INPUT : PILIH KURSI" vertex="1">
+          <mxGeometry height="70" width="270" x="265" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.62" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-15" edge="1" parent="1" source="BZrPpLRp-hcQR6TMVdMD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="PROSES : PEMROSESAN TIKET" vertex="1">
+          <mxGeometry height="76" width="270" x="265" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PROSES : SIMPAN DATA&amp;nbsp;" vertex="1">
+          <mxGeometry height="76" width="285" x="257.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.73" y="536" as="sourcePoint" />
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="INPUT : BAYAR" vertex="1">
+          <mxGeometry height="76" width="285" x="250" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-16" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=21;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="OUTPUT : TIKET" vertex="1">
+          <mxGeometry height="70" width="300" x="250" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-17" edge="1" parent="1" source="BZrPpLRp-hcQR6TMVdMD-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="980" as="sourcePoint" />
+            <mxPoint x="400" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="956.7" as="sourcePoint" />
+            <mxPoint x="400" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BZrPpLRp-hcQR6TMVdMD-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="SELESAI" vertex="1">
+          <mxGeometry height="60" width="300" x="250" y="1020" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

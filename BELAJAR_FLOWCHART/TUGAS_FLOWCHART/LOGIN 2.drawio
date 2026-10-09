@@ -1,0 +1,69 @@
+<mxfile host="Electron">
+  <diagram name="Halaman-1" id="Rk3bAHhYBgND1Bxi6In8">
+    <mxGraphModel dx="1106" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="MULAI" vertex="1">
+          <mxGeometry height="70" width="230" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-2" edge="1" parent="1" source="fabiKXfgeEU4OWkpU8GG-1" style="endArrow=classic;html=1;rounded=0;exitX=0.458;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+            <mxPoint x="355.34" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=24;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="INPUT USERNAME DAN PASSWORD" vertex="1">
+          <mxGeometry height="80" width="250" x="230" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=23;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="APAKAH PASSWORD BENAR&amp;nbsp;" vertex="1">
+          <mxGeometry height="180" width="185" x="262.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-6" edge="1" parent="1" source="fabiKXfgeEU4OWkpU8GG-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="480" as="sourcePoint" />
+            <mxPoint x="355" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="MASUK (SUKSES)&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="185" x="267" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-9" edge="1" parent="1" source="fabiKXfgeEU4OWkpU8GG-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="780" as="sourcePoint" />
+            <mxPoint x="360" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="selesai" vertex="1">
+          <mxGeometry height="80" width="185" x="262.5" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="450" />
+              <mxPoint x="160" y="690" />
+            </Array>
+            <mxPoint x="260" y="450" as="sourcePoint" />
+            <mxPoint x="250" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-12" edge="1" parent="1" source="fabiKXfgeEU4OWkpU8GG-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="450" />
+              <mxPoint x="570" y="230" />
+            </Array>
+            <mxPoint x="360" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=31;" value="YA" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="fabiKXfgeEU4OWkpU8GG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="TIDAK" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
